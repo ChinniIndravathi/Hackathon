@@ -1,0 +1,14 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    text-align: center;
+    padding: 200px;
+}
+#diceCanvas{
+    border: 5px solid;
+    justify-content: center;
+    background-color: red;
+    box-shadow: 5px 5px 5px 5px black;
+    
+}
